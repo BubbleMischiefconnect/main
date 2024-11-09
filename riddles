@@ -1,5 +1,4 @@
-{
-  "riddles": [
+[
     {
       "riddle": "What has keys but can't open locks?",
       "options": ["Piano", "Map", "Book", "Computer"],
@@ -420,5 +419,6 @@
       "options": ["Footsteps", "Coins", "Stars", "Words"],
       "answer": "Footsteps"
     }
-  ]
-}
+  
+]
+
