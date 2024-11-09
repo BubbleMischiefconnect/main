@@ -1,0 +1,424 @@
+{
+  "riddles": [
+    {
+      "riddle": "What has keys but can't open locks?",
+      "options": ["Piano", "Map", "Book", "Computer"],
+      "answer": "Piano"
+    },
+    {
+      "riddle": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "options": ["Sun", "Moon", "Letter M", "Wind"],
+      "answer": "Letter M"
+    },
+    {
+      "riddle": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+      "options": ["Mountain", "River", "Candle", "Tree"],
+      "answer": "Candle"
+    },
+    {
+      "riddle": "What has a heart that doesn’t beat?",
+      "options": ["Robot", "Mountain", "Stone", "Artichoke"],
+      "answer": "Artichoke"
+    },
+    {
+      "riddle": "What has to be broken before you can use it?",
+      "options": ["Glass", "Egg", "Rock", "Paper"],
+      "answer": "Egg"
+    },
+    {
+      "riddle": "What can travel around the world while staying in a corner?",
+      "options": ["Map", "Stamp", "Airplane", "Clock"],
+      "answer": "Stamp"
+    },
+    {
+      "riddle": "The more of this there is, the less you see. What is it?",
+      "options": ["Fog", "Night", "Darkness", "Wind"],
+      "answer": "Darkness"
+    },
+    {
+      "riddle": "I am not alive, but I can grow; I don’t have lungs, but I need air; I don’t have a mouth, but water kills me. What am I?",
+      "options": ["Fire", "Cloud", "Plant", "Shadow"],
+      "answer": "Fire"
+    },
+    {
+      "riddle": "What has hands but can’t clap?",
+      "options": ["Clock", "Statue", "Robot", "Bird"],
+      "answer": "Clock"
+    },
+    {
+      "riddle": "What has an eye but cannot see?",
+      "options": ["Potato", "Tiger", "Needle", "Storm"],
+      "answer": "Needle"
+    },
+    {
+      "riddle": "What is full of holes but still holds water?",
+      "options": ["Bucket", "Rock", "Sponge", "Towel"],
+      "answer": "Sponge"
+    },
+    {
+      "riddle": "I have branches, but no fruit, trunk, or leaves. What am I?",
+      "options": ["River", "Library", "Tree", "Building"],
+      "answer": "Library"
+    },
+    {
+      "riddle": "What can you catch but not throw?",
+      "options": ["Cold", "Ball", "Wind", "Rain"],
+      "answer": "Cold"
+    },
+    {
+      "riddle": "I am an odd number. Take away one letter, and I become even. What number am I?",
+      "options": ["One", "Five", "Seven", "Eleven"],
+      "answer": "Seven"
+    },
+    {
+      "riddle": "If two’s company, and three’s a crowd, what are four and five?",
+      "options": ["Group", "Numbers", "Nine", "Party"],
+      "answer": "Nine"
+    },
+    {
+      "riddle": "What begins with T, ends with T, and has T in it?",
+      "options": ["Teapot", "Toast", "Taco", "Tent"],
+      "answer": "Teapot"
+    },
+    {
+      "riddle": "I am light as a feather, yet the strongest man can’t hold me for more than five minutes. What am I?",
+      "options": ["Breath", "Air", "Time", "Water"],
+      "answer": "Breath"
+    },
+    {
+      "riddle": "What has one head, one foot, and four legs?",
+      "options": ["Table", "Horse", "Chair", "Person"],
+      "answer": "Bed"
+    },
+    {
+      "riddle": "Forward I’m heavy, but backward I’m not. What am I?",
+      "options": ["Door", "Ton", "Rock", "Car"],
+      "answer": "Ton"
+    },
+    {
+      "riddle": "What has many teeth but can’t bite?",
+      "options": ["Comb", "Clock", "Saw", "Brush"],
+      "answer": "Comb"
+    },
+    {
+      "riddle": "What has words, but never speaks?",
+      "options": ["Book", "Statue", "Radio", "Paper"],
+      "answer": "Book"
+    },
+    {
+      "riddle": "What has a neck but no head?",
+      "options": ["Bottle", "Snake", "Guitar", "River"],
+      "answer": "Bottle"
+    },
+    {
+      "riddle": "The more you take, the more you leave behind. What are they?",
+      "options": ["Steps", "Stones", "Time", "Words"],
+      "answer": "Steps"
+    },
+    {
+      "riddle": "I’m always on the dinner table, but you don’t get to eat me. What am I?",
+      "options": ["Salt", "Plate", "Napkin", "Fork"],
+      "answer": "Plate"
+    },
+    {
+      "riddle": "I’m not alive, but I can tell the time. What am I?",
+      "options": ["Clock", "Sun", "Candle", "Cloud"],
+      "answer": "Clock"
+    },
+    {
+      "riddle": "What can fill a room but takes up no space?",
+      "options": ["Light", "Air", "Water", "Sound"],
+      "answer": "Light"
+    },
+    {
+      "riddle": "I get wetter as I dry. What am I?",
+      "options": ["Water", "Ice", "Towel", "Shampoo"],
+      "answer": "Towel"
+    },
+    {
+      "riddle": "I have keys but open no locks, I have space but no room, you can enter but not go outside. What am I?",
+      "options": ["Car", "House", "Keyboard", "Safe"],
+      "answer": "Keyboard"
+    },
+    {
+      "riddle": "What runs around the whole yard without moving?",
+      "options": ["Water", "Wind", "Fence", "Dog"],
+      "answer": "Fence"
+    },
+    {
+      "riddle": "What can be cracked, made, told, and played?",
+      "options": ["Joke", "Egg", "Story", "Music"],
+      "answer": "Joke"
+    },
+    {
+      "riddle": "What has a bottom at the top?",
+      "options": ["Chair", "Leg", "Shoe", "Mountain"],
+      "answer": "Leg"
+    },
+    {
+      "riddle": "What belongs to you but others use it more than you?",
+      "options": ["Time", "Name", "Money", "Car"],
+      "answer": "Name"
+    },
+    {
+      "riddle": "I am something people love or hate. I change people’s appearances and thoughts. If a person takes care of themselves, I will go up even higher. What am I?",
+      "options": ["Age", "Love", "Self-esteem", "Money"],
+      "answer": "Self-esteem"
+    },
+    {
+      "riddle": "What has four wheels and flies?",
+      "options": ["Plane", "Helicopter", "Garbage Truck", "Boat"],
+      "answer": "Garbage Truck"
+    },
+    {
+      "riddle": "What tastes better than it smells?",
+      "options": ["Tongue", "Nose", "Ear", "Hand"],
+      "answer": "Tongue"
+    },
+    {
+      "riddle": "What has cities, but no houses; forests, but no trees; and rivers, but no water?",
+      "options": ["Map", "Dream", "Imagination", "Ocean"],
+      "answer": "Map"
+    },
+    {
+      "riddle": "What can’t talk but will reply when spoken to?",
+      "options": ["Mirror", "Echo", "Mountain", "Friend"],
+      "answer": "Echo"
+    },
+    {
+      "riddle": "The more you take, the more you leave behind. What am I?",
+      "options": ["Memories", "Photos", "Footsteps", "Time"],
+      "answer": "Footsteps"
+    },
+    {
+      "riddle": "What has many needles, but doesn’t sew?",
+      "options": ["Porcupine", "Cactus", "Tree", "Pine"],
+      "answer": "Pine"
+    },
+    {
+      "riddle": "What has one eye, but can’t see?",
+      "options": ["Storm", "Rock", "Potato", "Pencil"],
+      "answer": "Needle"
+    },
+    {
+      "riddle": "I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",
+      "options": ["Pencil", "Gold", "Coal", "Jewel"],
+      "answer": "Pencil"
+    },
+    {
+      "riddle": "What can be seen once in a year, twice in a week, and never in a day?",
+      "options": ["Letter E", "Letter M", "Letter Y", "Letter R"],
+      "answer": "Letter E"
+    },
+    {
+      "riddle": "I’m found in socks, scarves, and mittens; and often in the paws of playful kittens. What am I?",
+      "options": ["Yarn", "Button", "Needle", "Thread"],
+      "answer": "Yarn"
+    },
+    {
+      "riddle": "What kind of coat can only be put on when wet?",
+      "options": ["Raincoat", "Paint", "Jacket", "Sweater"],
+      "answer": "Paint"
+    },
+    {
+      "riddle": "What has a thumb and four fingers but is not alive?",
+      "options": ["Glove", "Mitten", "Sock", "Shoe"],
+      "answer": "Glove"
+    },
+    {
+      "riddle": "What has a head, a tail, is brown, and has no legs?",
+      "options": ["Coin", "Snake", "Stick", "Dog"],
+      "answer": "Coin"
+    },
+    {
+      "riddle": "What is so fragile that saying its name breaks it?",
+      "options": ["Glass", "Silence", "Mirror", "Promise"],
+      "answer": "Silence"
+    },
+    {
+      "riddle": "What has a face and two hands but no arms or legs?",
+      "options": ["Clock", "Person", "Plate", "Mirror"],
+      "answer": "Clock"
+    },
+    {
+      "riddle": "What kind of room has no doors or windows?",
+      "options": ["Ballroom", "Bedroom", "Mushroom", "Darkroom"],
+      "answer": "Mushroom"
+    },
+    {
+      "riddle": "What begins with an ‘e’ and only contains one letter?",
+      "options": ["Envelope", "Eagle", "Elephant", "Edge"],
+      "answer": "Envelope"
+    },
+    {
+      "riddle": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+      "options": ["Person", "Tree", "Candle", "Building"],
+      "answer": "Candle"
+    },
+    {
+      "riddle": "What has one eye but can’t see?",
+      "options": ["Storm", "Potato", "Needle", "Elephant"],
+      "answer": "Needle"
+    },
+    {
+      "riddle": "What goes up but never comes down?",
+      "options": ["Age", "Balloon", "Sound", "Temperature"],
+      "answer": "Age"
+    },
+    {
+      "riddle": "What gets wetter as it dries?",
+      "options": ["Sponge", "Towel", "Hair", "Cloth"],
+      "answer": "Towel"
+    },
+    {
+      "riddle": "What can travel around the world while staying in a corner?",
+      "options": ["Map", "Stamp", "Letter", "Flag"],
+      "answer": "Stamp"
+    },
+    {
+      "riddle": "What runs but never walks?",
+      "options": ["River", "Dog", "Clock", "Wind"],
+      "answer": "River"
+    },
+    {
+      "riddle": "What goes through cities and fields, but never moves?",
+      "options": ["Air", "Road", "Wind", "Water"],
+      "answer": "Road"
+    },
+    {
+      "riddle": "What has a neck but no head?",
+      "options": ["Bottle", "Snake", "River", "Shirt"],
+      "answer": "Bottle"
+    },
+    {
+      "riddle": "I can be cracked, made, told, and played. What am I?",
+      "options": ["Song", "Joke", "Puzzle", "Game"],
+      "answer": "Joke"
+    },
+    {
+      "riddle": "What is black when it’s clean and white when it’s dirty?",
+      "options": ["Whiteboard", "Mirror", "Blackboard", "Chalk"],
+      "answer": "Blackboard"
+    },
+    {
+      "riddle": "What has legs but doesn’t walk?",
+      "options": ["Dog", "Table", "Rock", "Chair"],
+      "answer": "Table"
+    },
+    {
+      "riddle": "The more you take, the more you leave behind. What are they?",
+      "options": ["Footsteps", "Memories", "Drops", "Tears"],
+      "answer": "Footsteps"
+    },
+    {
+      "riddle": "What is full of holes but still holds water?",
+      "options": ["Bucket", "Strainer", "Sponge", "Bottle"],
+      "answer": "Sponge"
+    },
+    {
+      "riddle": "I shave every day, but my beard stays the same. What am I?",
+      "options": ["Barber", "Dog", "Clown", "Gardener"],
+      "answer": "Barber"
+    },
+    {
+      "riddle": "What has many keys but can’t open a single lock?",
+      "options": ["Map", "Keyboard", "Chest", "Calculator"],
+      "answer": "Keyboard"
+    },
+    {
+      "riddle": "What has a bed but never sleeps and a mouth but never eats?",
+      "options": ["River", "Lion", "Cloud", "Wind"],
+      "answer": "River"
+    },
+    {
+      "riddle": "If I have it, I don’t share it. If I share it, I don’t have it. What am I?",
+      "options": ["Secret", "Gift", "Money", "Food"],
+      "answer": "Secret"
+    },
+    {
+      "riddle": "What comes down but never goes up?",
+      "options": ["Rain", "Wind", "Smoke", "Fire"],
+      "answer": "Rain"
+    },
+    {
+      "riddle": "What word is spelled wrong in every dictionary?",
+      "options": ["Wrong", "Right", "Word", "Spell"],
+      "answer": "Wrong"
+    },
+    {
+      "riddle": "What gets bigger the more you take away?",
+      "options": ["Hole", "Box", "Space", "Shadow"],
+      "answer": "Hole"
+    },
+    {
+      "riddle": "I’m lighter than a feather, yet the world’s strongest man couldn’t hold me for much longer than a minute. What am I?",
+      "options": ["Breath", "Wind", "Leaf", "Air"],
+      "answer": "Breath"
+    },
+    {
+      "riddle": "What has an end but no beginning, a home but no family, and a space without room?",
+      "options": ["River", "Road", "Internet", "Memory"],
+      "answer": "Road"
+    },
+    {
+      "riddle": "What has an eye but cannot see?",
+      "options": ["Needle", "Potato", "Storm", "Bird"],
+      "answer": "Needle"
+    },
+    {
+      "riddle": "What is at the end of a rainbow?",
+      "options": ["Gold", "Violet", "Letter W", "Cloud"],
+      "answer": "Letter W"
+    },
+    {
+      "riddle": "What has a head, a tail, is brown, and has no legs?",
+      "options": ["Coin", "Dog", "Snake", "Stone"],
+      "answer": "Coin"
+    },
+    {
+      "riddle": "What has teeth but can’t bite?",
+      "options": ["Comb", "Shark", "Saw", "Fish"],
+      "answer": "Comb"
+    },
+    {
+      "riddle": "I’m not alive, but I grow; I don’t have lungs, but I need air; I don’t have a mouth, and I can drown. What am I?",
+      "options": ["Fire", "River", "Cloud", "Tree"],
+      "answer": "Fire"
+    },
+    {
+      "riddle": "I can fly without wings. I can cry without eyes. Wherever I go, darkness flies. What am I?",
+      "options": ["Cloud", "Shadow", "Wind", "Light"],
+      "answer": "Cloud"
+    },
+    {
+      "riddle": "What goes up and down but never moves?",
+      "options": ["Stairs", "Temperature", "Time", "Shadow"],
+      "answer": "Stairs"
+    },
+    {
+      "riddle": "What has a ring but no finger?",
+      "options": ["Phone", "Cup", "Key", "Tree"],
+      "answer": "Phone"
+    },
+    {
+      "riddle": "What is always in front of you but can’t be seen?",
+      "options": ["Air", "Time", "Future", "Horizon"],
+      "answer": "Future"
+    },
+    {
+      "riddle": "I am heavy forward, but backward I’m not. What am I?",
+      "options": ["Door", "Ton", "Cart", "Sun"],
+      "answer": "Ton"
+    },
+    {
+      "riddle": "What kind of tree can you carry in your hand?",
+      "options": ["Oak", "Palm", "Pine", "Maple"],
+      "answer": "Palm"
+    },
+    {
+      "riddle": "The more you take, the more you leave behind. What are they?",
+      "options": ["Footsteps", "Coins", "Stars", "Words"],
+      "answer": "Footsteps"
+    }
+  ]
+}
